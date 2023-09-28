@@ -1,6 +1,6 @@
 # react-native-swipeable-element
 
-A component that takes an element which can be swiped   vertically. 
+A component that takes an element which can be swiped vertically.
 
 ## Installation
 
@@ -10,13 +10,7 @@ npm install react-native-swipeable-element
 
 ## Usage
 
-```js
-import { multiply } from 'react-native-swipeable-element';
-
-// ...
-
-const result = await multiply(3, 7);
-```
+Check [this file](example/src/App.tsx) for usage example.
 
 ## Contributing
 
